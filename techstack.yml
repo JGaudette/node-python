@@ -1,7 +1,8 @@
 repo_name: JGaudette/node-python
 report_id: e891c3ed5afe720c2aa991592b4f301b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T12:59:11+00:00'
+timestamp: '2024-01-04T14:53:46+00:00'
 requested_by: JGaudette
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/JGaudette/node-python/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: Jon Gaudette
   last_updated_on: 2020-05-06 03:43:08.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/JGaudette/node-python/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: Jon Gaudette
   last_updated_on: 2020-05-06 03:43:08.000000000 Z
@@ -41,7 +44,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source_url: Dockerfile
+  detection_source_url: https://github.com/JGaudette/node-python/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: Jon Gaudette
   last_updated_on: 2020-05-06 03:43:08.000000000 Z
@@ -54,6 +57,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/JGaudette/node-python
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -63,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/JGaudette/node-python
   detection_source: Repo Metadata
 - name: CocoaPods
   description: A dependency manager for Swift and Objective-C Cocoa projects
@@ -72,6 +77,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/JGaudette/node-python/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: Jon Gaudette
   last_updated_on: 2020-05-06 03:43:08.000000000 Z
