@@ -2,7 +2,7 @@ repo_name: JGaudette/node-python
 report_id: e891c3ed5afe720c2aa991592b4f301b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:26:34+00:00'
+timestamp: '2024-02-29T18:01:36+00:00'
 requested_by: JGaudette
 provider: github
 branch: master
@@ -22,7 +22,7 @@ tools:
   last_updated_by: Jon Gaudette
   last_updated_on: 2020-05-06 03:43:08.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
